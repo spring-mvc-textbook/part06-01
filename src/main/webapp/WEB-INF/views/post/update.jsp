@@ -45,7 +45,7 @@
                         <label for="password" class="form-label">비밀번호<span class="text-danger">*</span></label>
                         <input type="password" class="form-control" id="password" name="password" placeholder="비밀번호를 입력하세요" required>
                     </div>     
-                    <%--// 비밀번호 --%>               
+                    <%--// 비밀번호 --%>
                 </div>
                 <%-- card-body --%>
 
